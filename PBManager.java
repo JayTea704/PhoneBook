@@ -183,6 +183,7 @@ public class PBManager {
         }
     } //end of change method
 
+    //prints each entry in phone book
     public void printBook() {
         System.out.println();
         System.out.println("Phone Book:");
